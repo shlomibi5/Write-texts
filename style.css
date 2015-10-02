@@ -5,7 +5,7 @@ body {
 
 @font-face {
 	font-family: 'shlomi';
-	src: url(font/IndieFlower.ttf') format('truetype'), url
+	src: url("font/IndieFlower.ttf") format('truetype');
 }
 	
 h1{
@@ -36,4 +36,8 @@ h3 {
 	font-family: Tahoma;
 	font-size: 20px;
 	font-style: italic;
+}
+
+article{
+	font-family: "shlomi";
 }
