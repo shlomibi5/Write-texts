@@ -43,5 +43,10 @@ h3 {
 article {
 	font-family: "shlomi";
 	float: right;
-		margin-left: 10px;
+	margin-left: 10px;
+}
+
+div{
+
+	margin-right: 140px;
 }
